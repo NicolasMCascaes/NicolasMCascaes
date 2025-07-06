@@ -1,8 +1,6 @@
-Sobre mim:
-Meu nome é Nicolas e estou atualmente aprendendo e codando em JAVA.
+
+<h1 align = "center">Olá, tudo bem? Meu nome é Nicolas, sou de Tubarão SC e atualmente estou terminando o ensino médio.</h1>
 Em constante evolução.
-Sobre os projetos:
-Os primeiros projetos podem ter erros.
 Contato para trocar ideias ou sugestões:
 medeiroscascaes@gmail.com
 <!---
