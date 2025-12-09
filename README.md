@@ -3,7 +3,7 @@
 
 Em constante evolução.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMCascaes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMCascaes&layout=compact&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
