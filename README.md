@@ -21,8 +21,10 @@ Em constante evolução.
   <a href="https://www.linkedin.com/in/nicolas-medeiros-cascaes-643a94331/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div align = "center">
+  <img height="100" width="110" align = "center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anlsdHdoZGdvcDVrZ2ptbWIxdmVseXBwNjd3OWNlbm52Zmc4MXIxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l7zabeVIt16efVp6wg/giphy.gif" alt="Gif animado" />
+</div>
 
-<img height="100" width="110" align = "center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anlsdHdoZGdvcDVrZ2ptbWIxdmVseXBwNjd3OWNlbm52Zmc4MXIxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l7zabeVIt16efVp6wg/giphy.gif" alt="Gif animado" />
 
 
 
