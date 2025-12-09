@@ -22,7 +22,7 @@ Em constante evolução.
   
 </div>
 
-<img height="100" width="110" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anlsdHdoZGdvcDVrZ2ptbWIxdmVseXBwNjd3OWNlbm52Zmc4MXIxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l7zabeVIt16efVp6wg/giphy.gif" alt="Gif animado" />
+<img height="100" width="110" align = "center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anlsdHdoZGdvcDVrZ2ptbWIxdmVseXBwNjd3OWNlbm52Zmc4MXIxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l7zabeVIt16efVp6wg/giphy.gif" alt="Gif animado" />
 
 
 
