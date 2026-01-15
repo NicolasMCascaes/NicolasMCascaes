@@ -39,10 +39,10 @@ Meu objetivo é crescer em projetos desafiadores, entender cada detalhe do desen
 </div>
 <br>
 <div> 
-
+  <div align = "center">
   <a href = "mailto:medeiroscascaes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-medeiros-cascaes-643a94331/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  </div>
 </div>
 <div align = "center">
   <img height="100" width="110" align = "center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anlsdHdoZGdvcDVrZ2ptbWIxdmVseXBwNjd3OWNlbm52Zmc4MXIxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l7zabeVIt16efVp6wg/giphy.gif" alt="Gif animado" />
