@@ -2,8 +2,13 @@
 <h1 align = "center">Hello, i am Nicolas!</h1>
 
 Em constante evolução.
+<div align="center">
 
-<span align = "center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolasMCascaes&theme=tokyonight)</span>
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMCascaes&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolasMCascaes&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMCascaes&layout=compact&theme=tokyonight)
+
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
