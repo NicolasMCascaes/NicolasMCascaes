@@ -2,15 +2,10 @@
 <h1 align = "center">Hello, i am Nicolas!</h1>
 
 Em constante evolução.
-<div align="center">
+
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMCascaes&show_icons=true&theme=tokyonight&count_private=true)
-</div>
-<div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolasMCascaes&theme=tokyonight)
-</div>
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMCascaes&layout=compact&theme=tokyonight)
-</div>
+
+
 
 
 
