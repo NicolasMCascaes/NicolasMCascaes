@@ -3,7 +3,9 @@
 
 Em constante evolução.
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMCascaes&show_icons=true&theme=tokyonight&count_private=true)
+<div align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolasMCascaes&theme=tokyonight)
+</div>
 
 
 
