@@ -5,7 +5,7 @@ Sou desenvolvedor de software com foco em backend, apaixonado por transformar id
 Trabalho principalmente com Java, Spring Boot e PostgreSQL, desenvolvendo APIs RESTful bem estruturadas, seguras e escaláveis.
 Também estudo React, buscando entender o lado do usuário e criar aplicações completas e modernas.
 
-Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas reais — e é isso que me motiva a escrever cada linha de código.
+Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas reais, e é isso que me motiva a escrever cada linha de código.
 Tenho como princípios a clareza, a organização e o comprometimento em aprender sempre.
 
 🧰 Stack principal:
