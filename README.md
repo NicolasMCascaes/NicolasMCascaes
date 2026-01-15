@@ -3,7 +3,7 @@
 
 Em constante evolução.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMCascaes)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolasMCascaes&theme=tokyonight)
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
