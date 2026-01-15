@@ -3,7 +3,7 @@
 
 Em constante evolução.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolasMCascaes&theme=tokyonight)
+<span align = "center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolasMCascaes&theme=tokyonight)<span>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
