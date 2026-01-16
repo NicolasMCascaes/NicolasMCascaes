@@ -19,8 +19,8 @@ JUnit | Mockito | Git | REST APIs
 🌱 Sempre explorando novas formas de melhorar, contribuir e aprender com o processo.
 Meu objetivo é crescer em projetos desafiadores, entender cada detalhe do desenvolvimento e gerar impacto positivo por meio da tecnologia.
 
-![Nicolas GitHub stats](https://github-readme-stats-rktayb5t2-github-readme-stats-team.vercel.app/api?username=NicolasMCascaes&show_icons=true&theme=tokyonight&count_private=true)
-
+![Nicolas GitHub stats](/api?username=NicolasMCascaes&show_icons=true&theme=tokyonight&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats-rktayb5t2-github-readme-stats-team.vercel.app/api?username=NicolasMCascaes)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
