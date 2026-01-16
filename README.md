@@ -19,7 +19,7 @@ JUnit | Mockito | Git | REST APIs
 🌱 Sempre explorando novas formas de melhorar, contribuir e aprender com o processo.
 Meu objetivo é crescer em projetos desafiadores, entender cada detalhe do desenvolvimento e gerar impacto positivo por meio da tecnologia.
 
-![Your GitHub stats](github-readme-stats.vercel.app)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
