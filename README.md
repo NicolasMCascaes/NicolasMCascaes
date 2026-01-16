@@ -20,7 +20,7 @@ JUnit | Mockito | Git | REST APIs
 Meu objetivo é crescer em projetos desafiadores, entender cada detalhe do desenvolvimento e gerar impacto positivo por meio da tecnologia.
 
 ![Nicolas GitHub stats](/api?username=NicolasMCascaes&show_icons=true&theme=tokyonight&count_private=true)
-[![Anurag's GitHub stats](githubstats-topaz.vercel.app/api?username=NicolasMCascaes)]
+![Anurag's GitHub stats](githubstats-topaz.vercel.app/api?username=NicolasMCascaes&show_icons=true&theme=tokyonight&count_private=true)
 
 
 
