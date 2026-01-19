@@ -24,8 +24,9 @@ Meu objetivo é crescer em projetos desafiadores, entender cada detalhe do desen
 ![Anurag's GitHub stats](https://githubstats-topaz.vercel.app/api?username=NicolasMCascaes&show_icons=true&theme=tokyonight&count_private=true)
 
 </div>
-
-
+<div align="center">
+(https://githubstats-topaz.vercel.app/api/top-langs/?username=NicolasMCascaes)
+</div>
 
 
 
