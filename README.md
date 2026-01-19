@@ -8,7 +8,7 @@ Também estudo React, buscando entender o lado do usuário e criar aplicações 
 Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas reais, e é isso que me motiva a escrever cada linha de código.
 Tenho como princípios a clareza, a organização e o comprometimento em aprender sempre.
 
-🧰 Stack principal:
+Stack principal:
 
 Java | Spring Boot | PostgreSQL
 
@@ -16,7 +16,7 @@ React | JavaScript | TypeScript
 
 JUnit | Mockito | Git | REST APIs
 
-🌱 Sempre explorando novas formas de melhorar, contribuir e aprender com o processo.
+Sempre explorando novas formas de melhorar, contribuir e aprender com o processo.
 Meu objetivo é crescer em projetos desafiadores, entender cada detalhe do desenvolvimento e gerar impacto positivo por meio da tecnologia.
 
 ![Anurag's GitHub stats](githubstats-topaz.vercel.app/api?username=NicolasMCascaes&show_icons=true&theme=tokyonight&count_private=true)
