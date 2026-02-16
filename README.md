@@ -19,13 +19,28 @@ JUnit | Mockito | Git | REST APIs
 Sempre explorando novas formas de melhorar, contribuir e aprender com o processo.
 Meu objetivo é crescer em projetos desafiadores, entender cada detalhe do desenvolvimento e gerar impacto positivo por meio da tecnologia.
 
-<div align="center">
+<!-- START_SECTION:style -->
+```text
+┌ Followers ┐  ┌ Stars ┐
+│     0     │  │   0   │
+└───────────┘  └───────┘
+┌ Languages ──────────────────── ┐
+│ Java       ██████░░░░░░  49.4% │
+│ TypeScript ████░░░░░░░░  36.7% │
+│ CSS        █░░░░░░░░░░░   6.7% │
+│ HTML       █░░░░░░░░░░░   6.1% │
+│ JavaScript ░░░░░░░░░░░░   1.1% │
+└────────────────────────────────┘
 
-![Anurag's GitHub stats](https://githubstats-topaz.vercel.app/api?username=NicolasMCascaes&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://githubstats-topaz.vercel.app/api/top-langs/?username=NicolasMCascaes&show_icons=true&theme=tokyonight)
-
-</div>
+┌ Activity ────────────────────────────────── ┐  ┌ Stats ───── ┐
+│ Push   NicolasMCascaes/landing-page-angular │  │ Commits 378 │
+│ Create NicolasMCascaes/landing-page-angular │  └─────────────┘
+│ Push   NicolasMCascaes/taskList             │
+│ Push   NicolasMCascaes/taskList             │
+│ Push   NicolasMCascaes/taskList             │
+└─────────────────────────────────────────────┘
+```
+<!-- END_SECTION:style -->
 
 
 
