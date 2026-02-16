@@ -19,8 +19,6 @@ JUnit | Mockito | Git | REST APIs
 Sempre explorando novas formas de melhorar, contribuir e aprender com o processo.
 Meu objetivo é crescer em projetos desafiadores, entender cada detalhe do desenvolvimento e gerar impacto positivo por meio da tecnologia.
 
-<!-- START_SECTION:style -->
-```text
 ┌ Followers ┐  ┌ Stars ┐
 │     0     │  │   0   │
 └───────────┘  └───────┘
@@ -40,7 +38,7 @@ Meu objetivo é crescer em projetos desafiadores, entender cada detalhe do desen
 │ Push   NicolasMCascaes/taskList             │
 └─────────────────────────────────────────────┘
 ```
-<!-- END_SECTION:style -->
+
 
 
 
